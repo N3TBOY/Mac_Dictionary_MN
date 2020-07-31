@@ -19,4 +19,4 @@ Commands that used for convert it by using pyglossary:
 
   3. make install
 
-![Test Image 1](https://github.com/N3TBOY/Mac_Dictionary_MN/Screen Shot 2020-07-31 at 18.19.10.png 271)
+![Test Image 1](https://github.com/N3TBOY/Mac_Dictionary_MN/blob/master/en-mn/Screen%20Shot%202020-07-31%20at%2018.19.10.png)
