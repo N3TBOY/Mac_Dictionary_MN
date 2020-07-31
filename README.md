@@ -1,2 +1,21 @@
 # Mac_Dictionary_MN
 English-Mongolian dictionary to Mac dictionary app
+
+The tool we use for convert dictionary file to MacOS dictionary --> https://pypi.org/project/pyglossary/
+
+Installation: 
+
+  - sudo pip3 install lxml beautifulsoup4 html5lib
+  - need to install these two developer package 
+
+    - GNU make as part of [Command Line Tools for Xcode](http://developer.apple.com/downloads).
+    - Dictionary Development Kit as part of [Additional Tools for Xcode](http://developer.apple.com/downloads). Extract to `/Developer/Extras/Dictionary Development        Kit`
+
+Commands that used for convert it by using pyglossary:
+
+  1. python3 [main.py](http://main.py/) --write-format=AppleDict altangerel/altangerel_english_mongolian_dictionary.ifo english_mongolia.dictionary
+
+  2. make
+
+  3. make install
+
