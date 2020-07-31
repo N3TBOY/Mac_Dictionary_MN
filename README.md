@@ -1,5 +1,6 @@
 # Mac_Dictionary_MN
 English-Mongolian dictionary to Mac dictionary app
+
 Англи Монгол толь бичгийг MacOS толь бичгийн апп дээр нэмэх
 
 1. Download the dictionary files from en-mn directory.
