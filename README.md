@@ -29,3 +29,5 @@ English-Mongolian dictionary to Mac dictionary app
   ![Test Image 1](https://github.com/N3TBOY/Mac_Dictionary_MN/blob/master/en-mn/Screen%20Shot%202020-07-31%20at%2018.19.10.png)
 
 Dictionary files downloaded and used from: https://github.com/ochko/stardict-mn-dics
+
+Mongolian keyboard layout guide: http://mongoliankeyboardformac.blogspot.com/
