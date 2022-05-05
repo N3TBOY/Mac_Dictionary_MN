@@ -24,7 +24,7 @@ English-Mongolian dictionary to Mac dictionary app
 
     - make install
   
-6. Screenshot of quick look:
+6. Screenshot for a quick look:
 
   ![Test Image 1](https://github.com/N3TBOY/Mac_Dictionary_MN/blob/master/en-mn/Screen%20Shot%202020-07-31%20at%2018.19.10.png)
 
